@@ -1,4 +1,11 @@
 # sit-cloud
-this is repository for student of SIT
-this is a can jumps to the boxes
-This is a cute dog
+* This is repository for student of SIT
+* add new file of python for web server
+* git add .
+* git commit -m "update readme file"
+* git push
+* git branch prod
+* git checkout prod
+* git push --set-upstream origin prod
+* git branch dev
+* git checkout dev
